@@ -1,0 +1,11 @@
+C:\Users\world\Desktop\PvosSnak\Snake2\Snake2\bin\Debug\Snake2.exe.config
+C:\Users\world\Desktop\PvosSnak\Snake2\Snake2\bin\Debug\Snake2.exe
+C:\Users\world\Desktop\PvosSnak\Snake2\Snake2\bin\Debug\Snake2.pdb
+C:\Users\world\Desktop\PvosSnak\Snake2\Snake2\obj\Debug\Snake2.csproj.AssemblyReference.cache
+C:\Users\world\Desktop\PvosSnak\Snake2\Snake2\obj\Debug\Snake2.csproj.SuggestedBindingRedirects.cache
+C:\Users\world\Desktop\PvosSnak\Snake2\Snake2\obj\Debug\Snake2.Form1.resources
+C:\Users\world\Desktop\PvosSnak\Snake2\Snake2\obj\Debug\Snake2.Properties.Resources.resources
+C:\Users\world\Desktop\PvosSnak\Snake2\Snake2\obj\Debug\Snake2.csproj.GenerateResource.cache
+C:\Users\world\Desktop\PvosSnak\Snake2\Snake2\obj\Debug\Snake2.csproj.CoreCompileInputs.cache
+C:\Users\world\Desktop\PvosSnak\Snake2\Snake2\obj\Debug\Snake2.exe
+C:\Users\world\Desktop\PvosSnak\Snake2\Snake2\obj\Debug\Snake2.pdb

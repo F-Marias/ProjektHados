@@ -16,5 +16,11 @@ namespace Snake2
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            int hlava = 0;
+            hlava = hlava;
+        }
     }
 }
